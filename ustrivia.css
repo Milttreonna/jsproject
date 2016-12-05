@@ -1,0 +1,35 @@
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-image: url("img/flag2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+}
+
+p {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.one {
+    color: red;
+}
+
+.two {
+    color: white;
+}
+
+.three {
+    color: #0050D8;
+}
+
+/*.question {*/
+    background-color: maroon;
+    color: blue;
+}
+
+input {
+    display: inline-block;
+    vertical-align: top;
+}
+body {font-family: "Comic Sans MS", cursive, sans-serif;background-color: white;color:black;}
